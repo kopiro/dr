@@ -1,4 +1,4 @@
-# DRUN (docker-run)
+# DR
 
 Run _every_ command in a Docker environment, avoiding installing binaries in your workstation.
 
