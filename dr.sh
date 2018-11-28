@@ -53,6 +53,7 @@ else
 				_echo "Found '${image_tag}' version in Docker Hub!"
 			fi
 		else
+			image_tag="latest"
 			_echo "Using latest version"
 		fi
 
