@@ -8,7 +8,7 @@ LINK_FILE="/usr/local/etc/dr.db"
 
 # Define a weird set of char that doesn't have 
 # to appear in search term nor in registry image name
-LINK_SEP=":::::"
+LINK_SEP="::"
 
 # Docker Registry HTTP url
 DOCKER_REGISTRY_URL="https://registry.hub.docker.com/v1/repositories"
