@@ -33,5 +33,5 @@ drun sqlmap --url http://localhost
 ### Installation
 
 ```
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/kopiro/drun/master/install.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/kopiro/dr/master/install.sh)"
 ```
